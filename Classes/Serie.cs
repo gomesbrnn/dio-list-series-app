@@ -32,7 +32,7 @@ namespace DIO.App
             retorno += "Genero: " + this.Genero + '\n';
             retorno += "Titulo: " + this.Titulo + '\n';
             retorno += "Descrição: " + this.Descricao + '\n';
-            retorno += "Ano de Inicio: " + this.Ano;
+            retorno += "Ano de Inicio: " + this.Ano + '\n';
             retorno += "Excluido: " + this.Excluido;
             return retorno;
         }
