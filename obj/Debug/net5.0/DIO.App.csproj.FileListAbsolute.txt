@@ -1,0 +1,16 @@
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.exe
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.deps.json
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.runtimeconfig.json
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.runtimeconfig.dev.json
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.dll
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\ref\DIO.App.dll
+C:\Users\Breno\Music\DEV\DIO.App\bin\Debug\net5.0\DIO.App.pdb
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.csproj.AssemblyReference.cache
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.AssemblyInfoInputs.cache
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.AssemblyInfo.cs
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.dll
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\ref\DIO.App.dll
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.pdb
+C:\Users\Breno\Music\DEV\DIO.App\obj\Debug\net5.0\DIO.App.genruntimeconfig.cache
